@@ -1,0 +1,2 @@
+OhmMeter	KEYWORD1
+calculateResistance	KEYWORD2

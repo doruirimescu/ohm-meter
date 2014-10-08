@@ -1,0 +1,2 @@
+This library works for a voltage divider circuit which uses 2 resistors,1 chosen by the user,with a known resistor (1k in the example),and one resistor which needs to be measured.To measure higher resistances than around 50K,replaces the 1K resistor(Rk) in the circuit with a higher resistance.
+CHECK THE .fzz file (you need to download http://fritzing.org to be able to see it) for implementing the circuit.
